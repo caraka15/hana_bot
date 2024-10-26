@@ -1,0 +1,9 @@
+{
+  "rpc": "https://arbitrum.llamarpc.com",
+  "contractAddress": "0xC5bf05cD32a14BFfb705Fb37a9d218895187376c",
+  "numberOfTransactions": 50,
+  "minDelay": 5000,
+  "maxDelay": 15000,
+  "timezone": "Asia/Jakarta",
+  "scheduledTime": "14:50"
+}
