@@ -178,7 +178,6 @@ function scheduleTask() {
         chalk.yellow(JSON.stringify(
             {
                 ...config,
-                private_key: "HIDDEN"
             },
             null,
             2
